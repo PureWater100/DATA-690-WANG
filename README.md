@@ -1,1 +1,1 @@
-# Folder for assignment 1
+# This repository is for notes and assignments regarding DATA 690 - Stat and Viz with Python 
