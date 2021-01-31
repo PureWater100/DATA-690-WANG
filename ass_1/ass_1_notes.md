@@ -27,5 +27,24 @@
     - Connecting your data to statistical models, machine learning algorithms, or other computational tools 
   - *Presentation*
     - Creating interactive or static graphical visualizations or textual summaries
+## Chapter 2. Python Language Basics, IPythom, and Jupyter Notebooks
+- Python is an interpreted language, so an interpreter will run a program by executing one statement at a time
+- IPython: an enhanced Python interpreter
+- Jupyter notebook: web-based code notebooks originally created within the IPython project
+- Running the IPython Shell:
+  - use the ipython command
+- Running the Jupyter Notebook:
+  - Run the command jupyter notebook in a terminal 
+  - file with extension .ipynb
+- Introspection
+  - using a question mark before or after a variable will display some general information about the object
+- %run command 
+  - runa ny file as a python program inside IPython session
+  - in Jupyter notebook, can use the related %load magic function:
+  - this imports a script into a code cell
+- to interrupt running code, press Ctrl-C
+
+
+
 
   
