@@ -1,4 +1,4 @@
-# Chapter 1 Notes
+# Notes on Chapters 1 and 2 of "Python for Data Analysis"
 ## Chapter 1. Preliminaries 
 - primary focus of this book is on structured data 
 - Python for data analysis
