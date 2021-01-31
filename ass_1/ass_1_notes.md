@@ -3,18 +3,18 @@
 - primary focus of this book is on structured data 
 - Python for data analysis
 - Python Libraries 
-  NumPy: Short for Numerical Python, for numerical data
-  Pandas" for structured/tabular data
-  matplotlib
-  IPython/Jupyter
-  Many Others...
+  -NumPy: Short for Numerical Python, for numerical data
+  -Pandas" for structured/tabular data
+  -matplotlib
+  -IPython/Jupyter
+  -Many Others...
 - Installation and Setup 
-  Local:
-    Anaconda
-  Cloud Based:
-    Google Colab
-    Deepnote
-    Others...
+  -Local:
+    -Anaconda
+  -Cloud Based:
+    -Google Colab
+    -Deepnote
+    -Others...
 - Use Python 3.6
 - Goals:
   *Interacting with the outside world*
