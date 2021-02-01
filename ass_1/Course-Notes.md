@@ -52,8 +52,68 @@
 - Matplotlib Integration 
   - IPython integrates well with data visualization and other user interface libraries like matplotlib
 ### Python Language Basics 
-- 
+- Brief overview of essential Python programming concepts and language mechanics
+- "executable pseudocode"
+- indentation, not braces
+- uses whitespace (tabs or spaces) to structure code instead of using braces as in many other languages like R, C++, Java, and Perl
+- use 4 spaces as default indentation
+- statements do not need to be terminated by semicolons
+  - semicolons can be used to separate multiple statements on a single line:
+  - 'a = 5;  b = 6; c= 7'
+- everything is an object 
+- comments
+  - use the hash mark/pound sign #
+- function and object method calls 
+  - call functions using parentheses and passing zero or more arguments, optionally assigning the returned value to a variable 
+- variables and argument passing 
+- possible to alter the internals of a mutatble argument
+- In contrast with many compiled languages, like Java and C++, object references in Python have no type associated with them
+- Duck typing: can verify that an object is iterable if it implemented the iterator protocol
+- try using the iter function 
+- imports
+  - a module is a file with the.py extension containined code
+  - to access the content of such a file, then just use the import command 
+- binary operators and comparisons
+- Mutable and immutatable objects
+  - most objects can be modified 
+  - but strings and tuples can't be tampered with 
+- Scalar Types 
+  - single value data types 
+  - called scalars
+  - types:
+    - None 
+    - str
+    - bytes
+    - float
+    - bool
+    - int 
+  - numeric types 
+    - primary types for numbers: int and float 
+  - strings 
+    - use single or double quotes
+    - immutable
+  - bytes and unicode
+    - Unicode has become the first-class string type to enable more consistent handling of ASCII and non-ASCII text.
+  - booleans
+    - true and false
+    - combined with the 'and' and 'or' keywords
+  - type casting 
+    - str, bool, int, and float types can be casted to values 
+  - None 
+    - null value type
+    - doesn't explicitly return a value, implicitly returns None
+  - Dates and Times 
+    - built-in datetime module 
+- Control Flow 
+  - has several built-in keywords for conditional logic, loops, and other standard control flow concepts in other programming languages
+  - if, elif, else
+  - for loops
+  - while loops
+  - pass 
+  - range
+  - ternary expressions 
   
+
   
 
 
