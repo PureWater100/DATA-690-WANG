@@ -43,6 +43,18 @@
   - in Jupyter notebook, can use the related %load magic function:
   - this imports a script into a code cell
 - to interrupt running code, press Ctrl-C
+- Code can be executed from the clipboard 
+  - for Jupyter notebooks, you can copy and paste code into any cell and execute it
+- Terminal Keyboard Shortcuts 
+  - IPython has many keyboard shortcuts for navigating the prompt and interacting with the shell's command history
+- Magic Commands
+  - IPython's special commands (aren't built into Python itself) 
+- Matplotlib Integration 
+  - IPython integrates well with data visualization and other user interface libraries like matplotlib
+### Python Language Basics 
+- 
+  
+  
 
 
 
